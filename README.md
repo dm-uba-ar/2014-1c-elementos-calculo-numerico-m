@@ -1,33 +1,20 @@
-# Elementos de Cálculo Numérico Primer cuatrimestre de 2014 — Primer cuatrimestre de 2014
-
-## Equipo docente
-
-- **Clases teóricas:** Gabriel Acosta
-- **Clases prácticas:** Ignacio Ojea, Magalí Klinger, Rodrigo Cardeccia, Sebastián Freyre, Nicolás Canevali, Felipe Marceca
+# Elementos Cálculo Numérico M — Primer cuatrimestre de 2014
 
 ## Prácticas
 
-- [.pdf](2doParcialito.pdf)
-- [.pdf](numerico1-matlab.pdf)
-- [.pdf](numerico1.pdf)
-- [.pdf](numerico2-matlab.pdf)
-- [.pdf](numerico2.pdf)
-- [.pdf](numerico3.pdf)
-- [.pdf](numerico4.pdf)
-- [.pdf](numerico5.pdf)
-- [.pdf](numerico6.pdf)
-- [.pdf](numerico7.pdf)
-- [.pdf](numerico8.pdf)
-- [.pdf](programacion-matlab2.pdf)
-- [.pdf](programacion-matlab.pdf)
-
-## Bibliografía
-
-- Bibliografía para Matlab
-- Laboratorio
-- Es recomendable el uso de pendrives o bien el envío de lo trabajado por correo electrónico.
-- Home » Enseñanza » Materias » Primer Cuatrimestre de 2014 » Elementos de Cálculo Numérico - Cálculo Numérico » Cálculo Numérico - Bibliografía
-- Home » Enseñanza » Materias » Primer Cuatrimestre de 2014 » Elementos de Cálculo Numérico - Cálculo Numérico » Cálculo Numérico - Bibliografía para Matlab
+- [2doParcialito.pdf](2doParcialito.pdf)
+- [numerico1-matlab.pdf](numerico1-matlab.pdf)
+- [numerico1.pdf](numerico1.pdf)
+- [numerico2-matlab.pdf](numerico2-matlab.pdf)
+- [numerico2.pdf](numerico2.pdf)
+- [numerico3.pdf](numerico3.pdf)
+- [numerico4.pdf](numerico4.pdf)
+- [numerico5.pdf](numerico5.pdf)
+- [numerico6.pdf](numerico6.pdf)
+- [numerico7.pdf](numerico7.pdf)
+- [numerico8.pdf](numerico8.pdf)
+- [programacion-matlab2.pdf](programacion-matlab2.pdf)
+- [programacion-matlab.pdf](programacion-matlab.pdf)
 
 ## Página original
 
